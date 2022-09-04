@@ -4,6 +4,10 @@ body, ul, li, h1, h2, a{
     font-family: arial;
 }
 
+body{
+    background-color: white;
+}
+
 header{
     background-color: rgb(163, 163, 255);
     width: 100%;
