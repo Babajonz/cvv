@@ -1,0 +1,87 @@
+body, ul, li, h1, h2, a{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+header{
+    background-color: rgb(163, 163, 255);
+    width: 100%;
+}
+
+header img{
+    width: 8%;
+    position: relative;
+    left: 10%;
+    top: 5px;
+    padding: 10px;
+}
+
+.navi{
+    display: inline-block;
+    position: relative;
+    left: 70%;
+    bottom: 55px;
+    
+}
+
+.navi li{
+    display: inline-block;
+    width: 60px;
+}
+
+.navi li a{
+    text-decoration: none;
+    color: white;
+}
+
+.op{
+    text-align: center;
+}
+
+.op img{
+    width: 40%;
+    max-width: 100%;
+    
+}
+
+.describe{
+    text-align: center;
+}
+.describe img{
+    width: 10%;
+}
+
+.do{
+    text-align: center;
+}
+
+.dd td img{
+    width: 20%;
+    
+}
+
+.help{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(163, 163, 255);
+    padding: 40px;
+    text-align: center;
+   
+}
+
+.social li{
+    display: inline-block;
+    width: 10%;
+
+}
+
+.social li a{
+    text-decoration: none;
+}
+
+.social{
+    padding: 10px;
+}
